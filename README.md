@@ -1,4 +1,4 @@
-Here’s the corrected README.md so that copying works properly without extra details:
+
 
 # 📞 Online Customer Care System  
 
@@ -124,4 +124,4 @@ This project is open-source under the MIT License.
 - *No extra details copied* when clicking the "Copy" button.
 - *Clear and concise* instructions.
 
-Let me know if you need any more changes! 🚀
+
