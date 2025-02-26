@@ -16,6 +16,29 @@ The *Online Customer Care System* is a *web-based platform* designed to enhance 
 ✔ *Database Integration* – Stores and retrieves data using *MySQL*.  
 
 ---
+🛠 How to Use
+
+👤 Customer:
+✅ Register/Login → Submit complaints → Track complaint status
+
+👨‍💼 Admin:
+✅ Manage users & complaints → Assign agents
+
+👨‍🔧 Agent:
+✅ View assigned complaints → Update complaint status
+
+
+👤 My Contribution
+
+Keerthigan T. (Admin Panel | Full-Stack Development)
+	•	Admin Dashboard: Designed and developed a fully functional admin panel for user & complaint management.
+	•	Frontend Development: Built responsive UI components using JSP, HTML, CSS, JavaScript.
+	•	Backend Development: Implemented secure authentication, MySQL database integration, and server-side logic using Java Servlets.
+	•	Role-Based Access Control: Configured different permissions for Admin, Agents, Billing, and Technical Officers.
+	•	Deployment: Assisted in setting up the Apache Tomcat server and MySQL database.
+
+📌 GitHub Repository: 🔗 Online Customer Care System
+
 
 ## 🚀 Installation & Setup  
 
@@ -82,31 +105,7 @@ Password: admin123
 │── CCS.sql                # Database schema
 │── pom.xml                # Dependencies (if using Maven)
 
-🛠 How to Use
-	•	Customer: Register/Login → Submit complaints → Track status
-	•	Admin: Manage users & complaints → Assign agents
-	•	Agents: View assigned complaints → Update status
 
-🤝 Contributing
-
-If you’d like to improve this project, feel free to contribute!
-	1.	Fork the repository
-	2.	Create a new branch:
-
-git checkout -b feature-name
-
-
-	3.	Commit your changes:
-
-git commit -m "Added feature XYZ"
-
-
-	4.	Push the changes:
-
-git push origin feature-name
-
-
-	5.	Open a Pull Request
 
 📩 Contact
 
@@ -119,9 +118,5 @@ This project is open-source under the MIT License.
 
 🌟 If you found this project helpful, give it a ⭐ on GitHub!
 
-### 🔹 *What’s Fixed?*
-- *Code Blocks* (sh, sql, java) are now formatted properly.
-- *No extra details copied* when clicking the "Copy" button.
-- *Clear and concise* instructions.
 
 
